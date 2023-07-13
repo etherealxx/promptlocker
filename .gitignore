@@ -1,0 +1,6 @@
+cxfreezevenv/
+promptlocker_build/
+promptlocker_installer/
+pl_crypt.py
+innosetup_exportscript.iss.bak
+buildinstaller_log.txt

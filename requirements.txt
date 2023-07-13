@@ -1,0 +1,6 @@
+pillow
+tkinterdnd2
+pypng
+pyperclip
+show_in_file_manager
+cryptography
